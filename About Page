@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>About Milwaukee Public Schools - Fake</title>
+    <title>Contact Milwaukee Public Schools - Fake</title>
     <style>
         body { font-family: Arial, sans-serif; background-color: #f0f0f0; }
         header { background-color: #0046ad; color: white; padding: 10px; text-align: center; }
@@ -13,7 +13,7 @@
 </head>
 <body>
     <header>
-        <h1>About Milwaukee Public Schools</h1>
+        <h1>Contact Milwaukee Public Schools</h1>
     </header>
     <nav>
         <a href="fake_mps_home.html">Home</a>
@@ -23,10 +23,12 @@
         <a href="fake_mps_contact.html">Contact</a>
     </nav>
     <div class="content">
-        <h2>About Us</h2>
-        <p>Milwaukee Public Schools are the bestest in the state. We have been awarded many times for our excellence in teaching and our students always achieve the highestest scores in every subject.</p>
-        <p>Our mission is to provide a education that is globally recognized and valued.</p>
+        <h2>Contact Us</h2>
+        <p>Address: 1234 Fake St., Milwaukee, WI</p>
+        <p>Phone: 123-456-7890</p>
+        <p>Email: contact@fakeMPS.com</p>
     </div>
 </body>
 </html>
+
 
